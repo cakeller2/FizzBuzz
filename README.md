@@ -1,1 +1,4 @@
 ## FizzBuzz
+
+## What is this project
+This project uses a for loop to iterate through all numbers between 1 and 100, including 1 and 100. Each time the for loop is entered, the number of times the for loop has looped will go through if statements. These if statements use the mod function to first check if the number is divisible by 3 and 5, if it is the statement "FizzBuzz" will be printed on the console. If not, then whether the number is divisible by 3 is checked with the mod function which will print "Fizz" to the console if true. That the number is not divisible by 3, the if statements will use the mod function to check whether the number is divisible by 5, which will print "Buzz" to the console if true. If the number is not divisible by 3 and 5, just 3, or just 5, then the number itself will be printed to the console.  
